@@ -299,7 +299,7 @@ ul#nav li.current a { color: #FF8C55; }
 }
 #portfolio h1 {
    font: 24px/24px 'opensans-semibold', sans-serif;
-   text-transform: uppercase;
+   /* text-transform: uppercase; */
    letter-spacing: 1px;
    text-align: center;
    margin-bottom: 48px;
